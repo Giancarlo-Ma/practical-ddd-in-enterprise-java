@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Apress/practical-ddd-in-enterprise-java)
+
 # Apress Source Code
 
 This repository accompanies [*Practical Domain-Driven Design in Enterprise Java*](https://www.apress.com/9781484245422) by Vijay Nair (Apress, 2019).
