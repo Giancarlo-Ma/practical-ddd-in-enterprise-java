@@ -1,5 +1,4 @@
 image:
   file: Dockerfile
 tasks:
-  - init: cd Chapter3/cargotracker/ && mvn install
-    command: cd Chapter3/cargotracker/ && mvn liberty:start server
+  - init: cd Chapter3/cargotracker/ && echo helloworld
