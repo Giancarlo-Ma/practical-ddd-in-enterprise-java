@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-mysql
 
 COPY ./Chapter3 /workspace
 
